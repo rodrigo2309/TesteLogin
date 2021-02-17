@@ -46,7 +46,7 @@ namespace TesteLogin
             app.UseRouting();
 
             app.UseAuthorization();
-            app.UseAuthorization(); //ajuste
+            app.UseAuthentication(); //ajuste
 
             app.UseEndpoints(endpoints =>
             {

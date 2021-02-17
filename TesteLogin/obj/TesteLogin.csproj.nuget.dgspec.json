@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSEstudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj": {}
+    "C:\\Estudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj": {}
   },
   "projects": {
-    "C:\\VSEstudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj": {
+    "C:\\Estudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSEstudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj",
+        "projectUniqueName": "C:\\Estudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj",
         "projectName": "TesteLogin",
-        "projectPath": "C:\\VSEstudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj",
-        "packagesPath": "C:\\Users\\rodrigo.mori\\.nuget\\packages\\",
-        "outputPath": "C:\\VSEstudos\\TesteLogin\\TesteLogin\\obj\\",
+        "projectPath": "C:\\Estudos\\TesteLogin\\TesteLogin\\TesteLogin.csproj",
+        "packagesPath": "C:\\Users\\drigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Estudos\\TesteLogin\\TesteLogin\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rodrigo.mori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\drigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

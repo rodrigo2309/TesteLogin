@@ -335,3 +335,4 @@ C:\VSEstudos\TesteLogin\TesteLogin\obj\Debug\netcoreapp3.1\TesteLogin.csproj.Cop
 C:\VSEstudos\TesteLogin\TesteLogin\obj\Debug\netcoreapp3.1\TesteLogin.dll
 C:\VSEstudos\TesteLogin\TesteLogin\obj\Debug\netcoreapp3.1\TesteLogin.pdb
 C:\VSEstudos\TesteLogin\TesteLogin\obj\Debug\netcoreapp3.1\TesteLogin.genruntimeconfig.cache
+C:\Estudos\TesteLogin\TesteLogin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
