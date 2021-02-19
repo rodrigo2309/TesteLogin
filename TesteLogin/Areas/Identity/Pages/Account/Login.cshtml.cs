@@ -59,7 +59,7 @@ namespace TesteLogin.Areas.Identity.Pages.Account
         {
             if (User.Identity.IsAuthenticated)
             {
-                Response.Redirect("/Home");
+                Response.Redirect("/");
             }
 
             if (!string.IsNullOrEmpty(ErrorMessage))

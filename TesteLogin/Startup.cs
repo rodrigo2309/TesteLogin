@@ -45,15 +45,16 @@ namespace TesteLogin
 
             app.UseRouting();
 
-            app.UseAuthorization();
-            app.UseAuthentication(); //ajuste
+            app.UseAuthentication();
+            app.UseAuthorization(); //ajuste
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
-                endpoints.MapRazorPages();//ajuste
+                //to be added
+                endpoints.MapRazorPages(); //ajuste
             });
         }
     }
